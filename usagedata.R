@@ -1,4 +1,4 @@
-# Git!
+# Git 2!
 #************Get outside Data *****************
 library(ROracle) #install.packages("ROracle",type='source')
 drv <- dbDriver("Oracle")
